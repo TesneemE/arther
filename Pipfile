@@ -7,7 +7,7 @@ name = "pypi"
 streamlit = "*"
 openai = "*"
 streamlit_cropper = "*"
-PIL = "*"
+pillow = "*"
 replicate = "*"
 
 [dev-packages]
