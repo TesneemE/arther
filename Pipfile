@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "*"
+openai = "*"
+streamlit_cropper = "*"
+PIL = "*"
+replicate = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
