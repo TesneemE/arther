@@ -9,6 +9,7 @@ openai = "*"
 streamlit_cropper = "*"
 pillow = "*"
 replicate = "*"
+streamlit-extras = "*"
 
 [dev-packages]
 
